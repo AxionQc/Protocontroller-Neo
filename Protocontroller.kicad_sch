@@ -9452,7 +9452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8039c0e8-78bd-4c9d-9073-fc7cd0c9c101")
-		(property "Reference" "IO"
+		(property "Reference" "IO1"
 			(at 120.65 148.59 0)
 			(effects
 				(font
@@ -9537,7 +9537,7 @@
 		(instances
 			(project ""
 				(path "/6b9fa612-a115-4864-9524-3b5dfdea87ed"
-					(reference "IO")
+					(reference "IO1")
 					(unit 1)
 				)
 			)
@@ -9909,7 +9909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e7b1e8e-ee97-4dff-8484-085d5b2790cb")
-		(property "Reference" "APA102-Pad"
+		(property "Reference" "APA102-Pad1"
 			(at 154.94 143.51 0)
 			(effects
 				(font
@@ -9967,7 +9967,7 @@
 		(instances
 			(project ""
 				(path "/6b9fa612-a115-4864-9524-3b5dfdea87ed"
-					(reference "APA102-Pad")
+					(reference "APA102-Pad1")
 					(unit 1)
 				)
 			)
@@ -10395,7 +10395,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "S4B-PH-K-S(LF)(SN)"
+		(property "MP" "S4B-PH-K-K(LF)(SN)"
 			(at 82.55 118.11 0)
 			(effects
 				(font
@@ -11007,7 +11007,7 @@
 				)
 			)
 		)
-		(property "Value" "F.0603.00106/P2-0603W7YS2-06T-001"
+		(property "Value" "XL-1608UVC-04"
 			(at 132.84 101.6 0)
 			(effects
 				(font
@@ -12400,7 +12400,7 @@
 				)
 			)
 		)
-		(property "Value" "F.0603.00106/P2-0603W7YS2-06T-001"
+		(property "Value" "XL-1608UVC-04"
 			(at 132.84 91.44 0)
 			(effects
 				(font
@@ -13045,7 +13045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical"
 			(at 128.27 123.19 0)
 			(effects
 				(font
@@ -13112,7 +13112,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C160403"
+		(property "LCSC Part" "C160389"
 			(at 123.19 123.19 0)
 			(effects
 				(font
