@@ -24,7 +24,7 @@
 	(fp_circle (center 0.00 0.25) (end 0.13 0.25) (layer F.SilkS) (width 0.25))
 	(fp_circle (center -1.02 1.00) (end -0.99 1.00) (layer F.Fab) (width 0.06))
 	(fp_circle (center 0.00 0.25) (end 0.13 0.25) (layer Cmts.User) (width 0.25))
-	(model "C:/Users/AxionQc/Documents/Protocontroller-neo/Protocontroller.3dshapes/IPEX-SMD_HC-RF-IPEX2020-03.wrl"
+	(model "C:/Users/AxionQc/Documents/Protocontroller-neo-ESP32/Protocontroller.3dshapes/IPEX-SMD_HC-RF-IPEX2020-03.wrl"
 		(offset (xyz 0.000 -0.000 -0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))
